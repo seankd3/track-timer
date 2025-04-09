@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TrackTimer</string>
+    <string name="select_start_point">Select Start Point</string>
+    <string name="select_end_point">Select End Point</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="reset">Reset</string>
+    <string name="elapsed_time">Elapsed Time: %1$s</string>
+    <string name="distance">Distance: %1$s</string>
+    <string name="average_speed">Avg Speed: %1$s</string>
+    <string name="save_record">Save Record</string>
+    <string name="history">History</string>
+    <string name="saved_routes">Saved Routes</string>
+    <string name="no_records">No records found</string>
+    <string name="permission_rationale">Location permission is needed to track your travel time</string>
+    <string name="location_disabled">Location services are disabled. Please enable them in settings.</string>
+    <string name="start_point_selected">Start point selected</string>
+    <string name="end_point_selected">End point selected</string>
+    <string name="tracking_active">Tracking active</string>
+    <string name="tracking_stopped">Tracking stopped</string>
+    <string name="record_saved">Record saved successfully</string>
+    <string name="battery_optimization_message">For accurate tracking, please disable battery optimization for this app</string>
+</resources>

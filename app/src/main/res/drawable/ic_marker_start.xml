@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="36dp"
+    android:viewportWidth="24"
+    android:viewportHeight="36">
+    
+    <!-- Pin shadow -->
+    <path
+        android:fillColor="#50000000"
+        android:pathData="M12,34c2.2,0 4,-1.8 4,-4c0,-2.2 -4,-10 -4,-10s-4,7.8 -4,10C8,32.2 9.8,34 12,34z"
+        android:fillAlpha="0.3" />
+    
+    <!-- Pin body -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M12,2C8.13,2 5,5.13 5,9c0,5.25 7,13 7,13s7,-7.75 7,-13C19,5.13 15.87,2 12,2z" />
+    
+    <!-- Pin center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,11.5c-1.38,0 -2.5,-1.12 -2.5,-2.5s1.12,-2.5 2.5,-2.5 2.5,1.12 2.5,2.5 -1.12,2.5 -2.5,2.5z" />
+    
+    <!-- Flag element -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14,5.5L14,8.5L10,7.5L10,4.5Z" />
+</vector>

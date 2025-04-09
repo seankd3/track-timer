@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_light">#5C6BC0</color>
+    <color name="primary">#3F51B5</color>
+    <color name="accent_light">#FF80AB</color>
+    <color name="accent">#FF4081</color>
+    <color name="dark_background">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#424242</color>
+    <color name="medium_gray">#757575</color>
+    <color name="dark_gray">#BDBDBD</color>
+    <color name="route_line">#5C6BC0</color>
+    <color name="current_location">#FF80AB</color>
+</resources>
